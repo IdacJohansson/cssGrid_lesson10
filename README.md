@@ -1,1 +1,2 @@
-# cssGrid_lesson10
+# CSS Grid
+A project to practise Grid. 
